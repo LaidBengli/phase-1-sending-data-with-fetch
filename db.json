@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,280 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Black",
+      "dogBreed": "Doberman",
+      "id": 3
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 4
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 5
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 6
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 7
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 8
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 9
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 10
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 11
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 12
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 13
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 14
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 15
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 16
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 17
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 18
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 19
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 20
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 21
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 22
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 23
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 24
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 25
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 26
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 27
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 28
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 29
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 30
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 31
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 32
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 33
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 34
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 35
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 36
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 37
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 38
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 39
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 40
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 41
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 42
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 43
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 44
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 45
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 46
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 47
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 48
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 49
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 50
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 51
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 52
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 53
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 54
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 55
+    },
+    {
+      "dogName": "Liza",
+      "dogBreed": "Pitbull",
+      "id": 56
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +293,558 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 1
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 2
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 3
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 4
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 5
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 6
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 7
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 8
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 9
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 10
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 11
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 12
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 13
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 14
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 15
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 16
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 17
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 18
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 19
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 20
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 21
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 22
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 23
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 24
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 25
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 26
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 27
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 28
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 29
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 30
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 31
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 32
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 33
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 34
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 35
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 36
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 37
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 38
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 39
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 40
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 41
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 42
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 43
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 44
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 45
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 46
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 47
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 48
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 49
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 50
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 51
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 52
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 53
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 54
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 55
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 56
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 57
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 58
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 59
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 60
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 61
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 62
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 63
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 64
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 65
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 66
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 67
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 68
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 69
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 70
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 71
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 72
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 73
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 74
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 75
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 76
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 77
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 78
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 79
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 80
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 81
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 82
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 83
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 84
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 85
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 86
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 87
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 88
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 89
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 90
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 91
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 92
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 93
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 94
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 95
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 96
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 97
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 98
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 99
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 100
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 101
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 102
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 103
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 104
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 105
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 106
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 107
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 108
+    },
+    {
+      "userName": "Sami",
+      "email": "samihassen@gmail.com",
+      "id": 109
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
